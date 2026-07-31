@@ -1,0 +1,159 @@
+researcher_id,name,institution,commercial_priority_score,tier
+A5100626021,Dongjun Lee,Seoul National University,72.26147854622559,Tier A
+A5000858768,Ji‐Hye Park,Samsung Medical Center,71.12639693875242,Tier A
+A5070011199,Daeun Ryu,Hongik University,70.88166837584038,Tier A
+A5058349680,Yun Hak Kim,Pusan National University Yangsan Hospital,70.53951871471008,Tier A
+A5004152384,Joonho Shim,Instituto Benjamin Constant,70.0847677106317,Tier A
+A5100436321,Dong Soo Lee,Pohang University of Science and Technology,69.50922001881875,Tier A
+A5022724648,Chan Kwon Jung,Catholic University of Korea,68.64578515088735,Tier A
+A5030577122,Joohyuk Sohn,Ulsan College,68.46168606538903,Tier A
+A5045212145,Joo Sang Lee,National Cancer Institute,68.22293466129369,Tier A
+A5101966875,Chul‐Ho Kim,Il-Yang Pharmaceutical (South Korea),68.16296209255123,Tier A
+A5000694290,Yeun‐Jun Chung,Catholic University of Korea,67.81285419699964,Tier A
+A5024506731,Jun Yong Choi,Korea Advanced Institute of Science and Technology,67.22326198215387,Tier A
+A5052450087,Heounjeong Go,Ulsan College,67.11471281793933,Tier A
+A5059766169,Do‐Youn Oh,Seoul National University Hospital,66.84862299622947,Tier A
+A5071885891,Won Seog Kim,Samsung Medical Center,65.43074403864381,Tier A
+A5049348377,Kyung Hae Jung,Ulsan College,65.37095139170985,Tier A
+A5080425676,Dong‐Youn Lee,Samsung Medical Center,65.27542250995171,Tier A
+A5036203067,Jeon Yeob Jang,University of Suwon,64.11647536158893,Tier A
+A5114626485,Seok‐Hyung Kim,CHA University Bundang Medical Center,61.98063439036166,Tier A
+A5103233378,Kyo Young Song,The Catholic University of Korea Seoul St. Mary's Hospital,61.78774790121376,Tier A
+A5011844783,Jeongbin Park,Seoul National University,61.47158088560079,Tier A
+A5090481007,Hae‐Ock Lee,Catholic University of Korea,61.12631750481268,Tier A
+A5029278469,In‐Hye Ham,Ajou University,60.94186550322027,Tier A
+A5017051670,Kiyuk Chang,The Catholic University of Korea Seoul St. Mary's Hospital,60.38255073266754,Tier A
+A5026578909,Junil Kim,Soongsil University,60.040885637130756,Tier A
+A5007465704,Hae Ryoun Park,Pusan National University,59.56356888102981,Tier A
+A5058838920,Seung‐Hyun Jung,Catholic University of Korea,58.09699969878434,Tier A
+A5100726747,Sumin Lee,Korea Meteorological Administration,57.99120075569404,Tier A
+A5076943605,Eunsung Jun,Ulsan College,57.92230527126257,Tier A
+A5101984443,Jong Hee Lee,Samsung (South Korea),57.06671268169271,Tier A
+A5044769724,Hansong Lee,Pusan National University Yangsan Hospital,56.43448522721275,Tier A
+A5004427808,Taeyun Ku,Korea Advanced Institute of Science and Technology,55.91091953705208,Tier A
+A5014354862,Dagyeong Lee,University of Suwon,55.8696219962183,Tier B
+A5026459010,Sung‐Bae Kim,University of Ulsan,55.692900371717585,Tier B
+A5019834339,Sohee Park,Soongsil University,55.44482947708333,Tier B
+A5001973152,Yoori Choi,Seoul National University of Science and Technology,55.213269332543256,Tier B
+A5110208084,Hye Jeong Oh,University of Suwon,54.98227345001836,Tier B
+A5023482684,Minseok Suh,Seoul National University,54.8844606508909,Tier B
+A5055121468,Hye Jin Heo,Pusan National University,54.83438714969543,Tier B
+A5031068192,Seung‐Woo Cho,Kangwon National University,54.19003867240174,Tier B
+A5100625452,Jeong Hwan Park,National Cancer Center,54.060826058666024,Tier B
+A5050317153,Byeong‐Cheol Ahn,Kyungpook National University Hospital,53.95739693824453,Tier B
+A5100380876,Jin Kim,Soongsil University,53.874931772179096,Tier B
+A5114549702,Seungho Lee,Korea University,53.29554080213865,Tier B
+A5101765150,Seung Eun Baek,Institute for Basic Science,53.1681299200947,Tier B
+A5038666848,Chang Ho Sohn,Korea Advanced Institute of Science and Technology,52.64038442566371,Tier B
+A5038366277,Keun Seok Lee,National Cancer Center,52.47833660417212,Tier B
+A5033646196,Se Jin Oh,Samsung Medical Center,52.3619984190307,Tier B
+A5060938154,Yosep Chong,The Catholic University of Korea Uijeongbu St. Mary's Hospital,52.10018652997345,Tier B
+A5056137004,Hyeseong Lee,Lewis University,51.66409096266173,Tier B
+A5030607871,Sun Wook Cho,New Generation University College,51.59328362039552,Tier B
+A5028464804,Prakash Gangadaran,Kyungpook National University,51.318877524985275,Tier B
+A5045748813,Ju Hyun Yun,Ewha Womans University,51.30938885573424,Tier B
+A5006671739,Rosalind H. Lee,Gwangju Institute of Science and Technology,50.902762372291754,Tier B
+A5042831733,Youngbeen Moon,National Cancer Center,50.86011674778627,Tier B
+A5033057281,Yunjung Jin,Ewha Womans University,50.69896707564875,Tier B
+A5109170456,Yee Soo Chae,Kyungpook National University Hospital,50.53106395388998,Tier B
+A5036338381,In Woong Han,Samsung Medical Center,50.395625234432686,Tier B
+A5100348070,Nayoung Kim,Korea Advanced Institute of Science and Technology,50.1375408594555,Tier B
+A5100713453,Sunmin Kim,Catholic University of Korea,50.070460580698196,Tier B
+A5100771881,Jae Eun Lee,Korea Advanced Institute of Science and Technology,49.9472294897702,Tier B
+A5073934092,Jae Myoung Suh,Korea Advanced Institute of Science and Technology,49.92506623066706,Tier B
+A5052602817,Sun Shin,Korea Institute of Energy Research,49.33821178411183,Tier B
+A5068518101,Tae-Kyung Kim,Pohang University of Science and Technology,49.2675216306891,Tier B
+A5100723831,Seungchan Kim,Plastic Surgery Hospital,49.03439326127279,Tier B
+A5046207199,Juyoung Yoon,Ewha Womans University,48.737901221380284,Tier B
+A5044524626,Yoo Seob Shin,Yonsei University,48.44308473616345,Tier B
+A5101638524,Areum Jo,Catholic University of Korea,47.96890894839835,Tier B
+A5011272746,Yun‐Gon Kim,Soongsil University,47.917080486105576,Tier B
+A5040514663,Jinyeong Choi,Korea Exercise Rehabilitation Association,47.86116535607012,Tier B
+A5073268857,Chung Whan Lee,Gachon University,47.79057324128395,Tier B
+A5074645251,Jung‐Yun Lee,Yonsei University,47.770455511450635,Tier B
+A5056969461,Beomseok Jeon,Seoul National University Hospital,47.33812011201316,Tier B
+A5101725413,Seung‐Ah Yoo,Catholic University of Korea,46.64006794689228,Tier B
+A5084508227,Jai Hee Bae,Samsung Medical Center,46.62160184059548,Tier B
+A5000867275,Hae Seul Lee,Pusan National University Yangsan Hospital,46.51808521220367,Tier B
+A5101667014,Eunhye Park,Ewha Womans University,46.48472159456616,Tier B
+A5089359189,Eunhye Yeo,Samsung (South Korea),45.764694244045785,Tier B
+A5101593845,Chan Woo Kim,Westchester Medical Center,45.65925967122597,Tier B
+A5083630059,An Na Seo,Kyungpook National University Hospital,45.49861909424929,Tier B
+A5107838719,Klaus‐Robert Müller,Korea University,45.02242783401074,Tier B
+A5015062816,Hyunsu An,Gwangju Institute of Science and Technology,44.91170420096328,Tier B
+A5039106930,Huiram Kang,Catholic University of Korea,44.8797061251113,Tier B
+A5052722112,Hyun‐Young Cha,Ajou University,44.21094624370514,Tier B
+A5100406800,Eun Ji Lee,Seoul National University,41.66426325360745,Tier B
+A5077187526,Gyeong Dae Kim,Harvard University,38.29479621141657,Tier B
+A5113080525,Seo-Yeong Lee,Yonsei University,37.78076461034873,Tier B
+A5104189735,Jaewoo Mo,Soongsil University,35.28139148491189,Tier B
+A5101260841,Junseo Seo,Soongsil University,33.52952325330391,Tier B
+A5110118275,Chorong Seo,Inje University,48.75879537778121,Tier C
+A5069564463,Ji‐Youn Sung,Kyung Hee University,47.591889166373605,Tier C
+A5028507019,Ik Jun Choi,The Catholic University of Korea Incheon St. Mary's Hospital,47.25802581434732,Tier C
+A5087294413,Sungwoong Kim,Korea University,46.32445146242168,Tier C
+A5009259352,Jamshid Abdul‐Ghafar,Kabul Medical University,45.12739871990893,Tier C
+A5042100493,Ji Mi Ahn,Ajou University,44.9099638856805,Tier C
+A5054931904,Yoon Ah Cho,Samsung Medical Center,43.48638183034954,Tier C
+A5069469573,Kwangil Yim,The Catholic University of Korea Uijeongbu St. Mary's Hospital,43.028388717496384,Tier C
+A5001441680,Ji Young Mun,Korea Brain Research Institute,42.89892116128879,Tier C
+A5022448366,Sung‐Hyun Jo,Soongsil University,42.1930419535903,Tier C
+A5016008254,Christian Macks,Korea Advanced Institute of Science and Technology,42.067872300184916,Tier C
+A5018869966,Sin‐Hee Park,Unknown,41.65398653008698,Tier C
+A5055913466,Namyoung Jung,Pohang University of Science and Technology,40.64041600298454,Tier C
+A5112655953,Dong-Jin Han,Catholic University of Korea,40.42717392035275,Tier C
+A5005712891,Jang Hoon Lee,Kyungpook National University Hospital,40.36148572682191,Tier C
+A5049355350,Seunggeun Lee,Unknown,39.74880101635673,Tier C
+A5045410556,Han‐Eol Park,Yonsei University,39.46843655097856,Tier C
+A5111700801,B. J. Park,Soongsil University,39.04301558371426,Tier C
+A5020003410,Jiwon Shim,Chungbuk National University,38.305089830652854,Tier C
+A5011174551,Eunmin Kim,Yonsei University,37.5004967153366,Tier C
+A5070538830,Moonsik Kim,Kyungpook National University Hospital,37.49727183054069,Tier C
+A5072381269,Sun‐ju Byeon,Daejeon Sun Hospital,37.39037031904064,Tier C
+A5016338335,Soohwan An,Brigham and Women's Hospital,37.17829344008442,Tier C
+A5074483970,Cheorl‐Ho Kim,Sungkyunkwan University,36.349563541550296,Tier C
+A5064908728,Song Hyun Jo,Korea Advanced Institute of Science and Technology,36.201161457255935,Tier C
+A5109616230,Minkyo Jung,Korea Institute of Machinery & Materials,35.47469733182549,Tier C
+A5003517879,Young‐Koo Jee,Dankook University,34.07587350748199,Tier C
+A5019811423,Kisung Nam,Seoul National University,33.151095334667986,Tier C
+A5101905019,Jangho Kim,Seoul National University,32.86411721325042,Tier C
+A5012763936,Pratyush Kumar Mishra,Seoul National University,32.649095432131425,Tier C
+A5043815269,Yong Woo Ji,Yonsei University,32.15581877974205,Tier C
+A5103042371,Sung Ki Lee,Konyang University,31.99266332799026,Tier C
+A5113327383,In-Kyu Lee,Kyungpook National University Hospital,31.756410707284232,Tier C
+A5100436303,Dae Ho Lee,Shinhwa Medical (South Korea),31.223511593916946,Tier C
+A5056078856,Nishant Thakur,Catholic University of Korea,30.473820392618098,Tier C
+A5052825364,Gyeongjun Kim,Seoul National University,29.83848422863143,Tier C
+A5102629578,Youngmin Chung,Sungkyunkwan University,29.82054846271467,Tier C
+A5039165896,Jae Hun Jung,Kyung Hee University,29.670514209654392,Tier C
+A5080393838,Nirmali Sharma,Seoul National University,28.87765841547474,Tier C
+A5020433927,Suran Kim,Yonsei University,28.799990624550215,Tier C
+A5038741908,Kyeong Chan Im,Sungkyunkwan University,28.721103014540383,Tier C
+A5038321538,Sungjin Min,Yonsei University,28.673698699998496,Tier C
+A5013823921,Yi Sun Choi,Yonsei University,28.248493977644372,Tier C
+A5031651244,Ji Hun Ha,Sungkyunkwan University,28.17482902611306,Tier C
+A5100772900,Jae Hun Kim,Kyung Hee University,26.737706262341167,Tier C
+A5009706510,Muhammad Joan Ailia,Pusan National University,26.70647123224953,Tier C
+A5085902390,Eun Jung Choi,Kyungpook National University,26.674841434934,Tier C
+A5060670063,Kyusun Han,Yonsei University,25.453186425101524,Tier C
+A5060611882,Chang-Mo Yoo,Seoul National University,23.735793313748545,Tier C
+A5050948502,Eungyeong Jang,Kyung Hee University,22.78739033290859,Tier C
+A5062726951,Jungkap Park,Hallym University Sacred Heart Hospital,17.916110864153513,Tier C
+A5112850024,Young Hyeh,Sungkyunkwan University,13.043834338564622,Tier C
+A5111031978,Cho Hyun Hwang,Kyung Hee University,11.8704679461476,Tier C
+A5100719073,Tae‐Min Kim,Catholic Medical Center,96.80745828966147,Tier S
+A5106557026,Young Tae Kim,Seoul National University,94.31321383520275,Tier S
+A5023527433,Sung Hak Lee,LG (United States),91.06343593694437,Tier S
+A5057036329,Hongyoon Choi,Seoul National University,87.61204844865219,Tier S
+A5027741708,Jaemoon Koh,Seoul National University Hospital,82.43306574797855,Tier S
+A5110948257,Kwon Joong Na,Seoul National University,82.31582268747732,Tier S
+A5017735770,Hoon Hur,Ajou University,80.53625626179874,Tier S
+A5101445353,Yeon Hee Park,Samsung Medical Center,79.92406027378846,Tier S
+A5053879044,Sungwoo Bae,Seoul National University,78.07599739496972,Tier S
+A5014147627,Junho K. Hur,Hanyang University,77.52074271387173,Tier S
+A5030936631,Eun Kyoung Kim,Samsung Medical Center,76.3936575624048,Tier S
+A5067428277,Hyung‐Jun Im,Seoul National University of Science and Technology,76.13775138358835,Tier S
+A5008352862,In Hye Song,Ulsan College,74.20078121174865,Tier S
+A5069050806,Seock‐Ah Im,Seoul National University,74.05570253994927,Tier S
+A5011818793,Jin Roh,Ulsan College,73.96007948829983,Tier S
+A5100740580,Jihwan Park,Gwangju Institute of Science and Technology,72.71873335104456,Tier S

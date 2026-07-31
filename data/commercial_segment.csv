@@ -1,0 +1,159 @@
+researcher_id,name,institution,statistical_score,expert_score,segment
+A5110948257,Kwon Joong Na,Seoul National University,70.52637114579554,100.0,Strategic Target
+A5053879044,Sungwoo Bae,Seoul National University,65.16745070863199,97.43881742447631,Strategic Target
+A5057036329,Hongyoon Choi,Seoul National University,82.1354351050146,95.82696846410856,Strategic Target
+A5100719073,Tae‐Min Kim,Catholic Medical Center,98.83473989825363,93.76653587677322,Strategic Target
+A5027741708,Jaemoon Koh,Seoul National University Hospital,76.43169408892962,91.43512323655195,Strategic Target
+A5023527433,Sung Hak Lee,LG (United States),91.48774803310657,90.42696779270106,Strategic Target
+A5106557026,Young Tae Kim,Seoul National University,100.0,85.78303458800686,Strategic Target
+A5101445353,Yeon Hee Park,Samsung Medical Center,78.02973011910535,82.76555550581313,Strategic Target
+A5011844783,Jeongbin Park,Seoul National University,47.63992961105626,82.21905779741758,Emerging Adopter
+A5014147627,Junho K. Hur,Hanyang University,74.56124692059251,81.95998640379058,Strategic Target
+A5017735770,Hoon Hur,Ajou University,80.76895873188347,80.18720255667165,Strategic Target
+A5070011199,Daeun Ryu,Hongik University,65.51781909026424,78.92744230420456,Strategic Target
+A5067428277,Hyung‐Jun Im,Seoul National University of Science and Technology,74.42899225222975,78.70089008062627,Strategic Target
+A5100740580,Jihwan Park,Gwangju Institute of Science and Technology,69.76617320579362,77.14757356892096,Strategic Target
+A5058349680,Yun Hak Kim,Pusan National University Yangsan Hospital,66.96907160560227,75.8951893783718,Strategic Target
+A5044769724,Hansong Lee,Pusan National University Yangsan Hospital,43.92009534449373,75.20607005129126,Emerging Adopter
+A5045212145,Joo Sang Lee,National Cancer Institute,64.9116123756731,73.18991808972456,Strategic Target
+A5006671739,Rosalind H. Lee,Gwangju Institute of Science and Technology,36.205603984710464,72.94849995366368,Emerging Adopter
+A5100726747,Sumin Lee,Korea Meteorological Administration,49.10880096318654,71.31480044445529,Emerging Adopter
+A5045748813,Ju Hyun Yun,Ewha Womans University,39.047908249834705,69.70160976458354,Emerging Adopter
+A5004152384,Joonho Shim,Instituto Benjamin Constant,70.52521706740606,69.42409367547016,Strategic Target
+A5014354862,Dagyeong Lee,University of Suwon,47.313778963153105,68.70338654581609,Emerging Adopter
+A5026578909,Junil Kim,Soongsil University,54.89504120140709,67.75965229071626,Strategic Target
+A5011818793,Jin Roh,Ulsan College,78.69768751433386,66.85366744924876,Strategic Target
+A5008352862,In Hye Song,Ulsan College,79.2487209342702,66.6288716279663,Strategic Target
+A5100626021,Dongjun Lee,Seoul National University,76.10710396237714,66.49304042199824,Strategic Target
+A5039106930,Huiram Kang,Catholic University of Korea,30.594365469724767,66.3077171081911,Emerging Adopter
+A5033057281,Yunjung Jin,Ewha Womans University,40.668880225413275,65.74409735100197,Emerging Adopter
+A5069050806,Seock‐Ah Im,Seoul National University,79.68211566512238,65.61608285218958,Strategic Target
+A5114549702,Seungho Lee,Korea University,45.94819926249285,64.31655311160736,Emerging Adopter
+A5113080525,Seo-Yeong Lee,Yonsei University,21.949031491144684,61.5283642891548,Emerging Adopter
+A5101638524,Areum Jo,Catholic University of Korea,38.939786817461425,61.51259214480373,Emerging Adopter
+A5089359189,Eunhye Yeo,Samsung (South Korea),35.27949215629714,61.49249737566876,Emerging Adopter
+A5100436321,Dong Soo Lee,Pohang University of Science and Technology,75.23036241322268,60.927506427212876,Strategic Target
+A5090481007,Hae‐Ock Lee,Catholic University of Korea,61.3711709573478,60.75903732601,Strategic Target
+A5030577122,Joohyuk Sohn,Ulsan College,73.75975557579707,60.51458179977697,Strategic Target
+A5052450087,Heounjeong Go,Ulsan College,72.17166782811634,59.52928030267384,Strategic Target
+A5000694290,Yeun‐Jun Chung,Catholic University of Korea,73.38949385250984,59.44789471373431,Strategic Target
+A5015062816,Hyunsu An,Gwangju Institute of Science and Technology,35.356326251681175,59.244771124886434,Emerging Adopter
+A5036203067,Jeon Yeob Jang,University of Suwon,67.37272438286129,59.232101829680374,Strategic Target
+A5104189735,Jaewoo Mo,Soongsil University,19.37650630638376,59.1387192527041,Emerging Adopter
+A5101966875,Chul‐Ho Kim,Il-Yang Pharmaceutical (South Korea),74.38823164578729,58.82505776269714,Strategic Target
+A5030936631,Eun Kyoung Kim,Samsung Medical Center,88.10668889420535,58.82411056470398,Strategic Target
+A5084508227,Jai Hee Bae,Samsung Medical Center,38.601231585175086,58.65215722372608,Emerging Adopter
+A5022724648,Chan Kwon Jung,Catholic University of Korea,75.38799616937047,58.53246862316266,Strategic Target
+A5029278469,In‐Hye Ham,Ajou University,62.59489181989494,58.46232602820827,Strategic Target
+A5000858768,Ji‐Hye Park,Samsung Medical Center,79.79015755482301,58.130756014646536,Strategic Target
+A5024506731,Jun Yong Choi,Korea Advanced Institute of Science and Technology,73.34783884717243,58.036396684626055,Strategic Target
+A5056137004,Hyeseong Lee,Lewis University,47.79322264300217,57.47039344215107,Emerging Adopter
+A5000867275,Hae Seul Lee,Pusan National University Yangsan Hospital,39.436305711118884,57.14075446383086,Emerging Adopter
+A5101260841,Junseo Seo,Soongsil University,17.80002539321642,57.12377004343513,Emerging Adopter
+A5110208084,Hye Jeong Oh,University of Suwon,53.86465415478674,56.6587023928658,Strategic Target
+A5001973152,Yoori Choi,Seoul National University of Science and Technology,54.59998967245973,56.133188822668544,Strategic Target
+A5023482684,Minseok Suh,Seoul National University,54.30861052924815,55.74823583335502,Strategic Target
+A5059766169,Do‐Youn Oh,Seoul National University Hospital,74.54069819887386,55.310510192262896,Strategic Target
+A5028464804,Prakash Gangadaran,Kyungpook National University,48.80152955457767,55.09489948059668,Emerging Adopter
+A5114626485,Seok‐Hyung Kim,CHA University Bundang Medical Center,66.59847573442951,55.05387237425986,Strategic Target
+A5007465704,Hae Ryoun Park,Pusan National University,62.60653773388603,54.99911560174547,Strategic Target
+A5100348070,Nayoung Kim,Korea Advanced Institute of Science and Technology,47.065569338752745,54.74549814050962,Emerging Adopter
+A5042831733,Youngbeen Moon,National Cancer Center,48.71815531870427,54.073058891409275,Emerging Adopter
+A5077187526,Gyeong Dae Kim,Harvard University,27.90081834819778,53.885763006244744,Emerging Adopter
+A5080425676,Dong‐Youn Lee,Samsung Medical Center,73.19152688564292,53.40126594641489,Strategic Target
+A5040514663,Jinyeong Choi,Korea Exercise Rehabilitation Association,44.175187150390805,53.390132664589075,Emerging Adopter
+A5038666848,Chang Ho Sohn,Korea Advanced Institute of Science and Technology,52.74602569302047,52.48192252462856,Strategic Target
+A5004427808,Taeyun Ku,Korea Advanced Institute of Science and Technology,58.336908626586315,52.27193590275072,Strategic Target
+A5017051670,Kiyuk Chang,The Catholic University of Korea Seoul St. Mary's Hospital,66.21953882366904,51.62706859616528,Strategic Target
+A5074645251,Jung‐Yun Lee,Yonsei University,45.39101449862765,51.339617030685105,Emerging Adopter
+A5076943605,Eunsung Jun,Ulsan College,62.36725294546298,51.254883759961956,Strategic Target
+A5060938154,Yosep Chong,The Catholic University of Korea Uijeongbu St. Mary's Hospital,52.913856035098085,50.879682272286495,Strategic Target
+A5055121468,Hye Jin Heo,Pusan National University,57.487056348548926,50.8553833514152,Strategic Target
+A5101984443,Jong Hee Lee,Samsung (South Korea),61.28963016661167,50.732336454314265,Strategic Target
+A5049348377,Kyung Hae Jung,Ulsan College,75.20932173408117,50.61339587815288,Strategic Target
+A5073268857,Chung Whan Lee,Gachon University,46.05381114045745,50.3957163925237,Emerging Adopter
+A5101765150,Seung Eun Baek,Institute for Basic Science,55.164165994618365,50.17407580830918,Strategic Target
+A5058838920,Seung‐Hyun Jung,Catholic University of Korea,64.612599790711,48.32359956089434,Strategic Target
+A5071885891,Won Seog Kim,Samsung Medical Center,77.23429433343254,47.7254185964607,Strategic Target
+A5100625452,Jeong Hwan Park,National Cancer Center,59.128600868243666,46.45916384429957,Strategic Target
+A5100406800,Eun Ji Lee,Seoul National University,38.5325258960379,46.361869289961774,Emerging Adopter
+A5033646196,Se Jin Oh,Samsung Medical Center,56.464677971037624,46.20797909102031,Strategic Target
+A5100771881,Jae Eun Lee,Korea Advanced Institute of Science and Technology,52.59705539604771,45.972490630353946,Academic Leader
+A5030607871,Sun Wook Cho,New Generation University College,55.43366152293993,45.832716766578905,Academic Leader
+A5087294413,Sungwoong Kim,Korea University,46.77087655489084,45.65481382371793,Low Priority
+A5009259352,Jamshid Abdul‐Ghafar,Kabul Medical University,45.00565966230206,45.31000730631924,Low Priority
+A5103233378,Kyo Young Song,The Catholic University of Korea Seoul St. Mary's Hospital,72.93899222323455,45.060881418182596,Academic Leader
+A5111700801,B. J. Park,Soongsil University,35.21184537780132,44.78977089258367,Low Priority
+A5100713453,Sunmin Kim,Catholic University of Korea,53.712490503976,44.60741569578149,Academic Leader
+A5113327383,In-Kyu Lee,Kyungpook National University Hospital,23.22228493997454,44.557599358248765,Low Priority
+A5038366277,Keun Seok Lee,National Cancer Center,57.849357064658754,44.421805913442164,Academic Leader
+A5069469573,Kwangil Yim,The Catholic University of Korea Uijeongbu St. Mary's Hospital,42.12872177572491,44.37788913015359,Low Priority
+A5052825364,Gyeongjun Kim,Seoul National University,20.194530564874107,44.30441472426741,Low Priority
+A5110118275,Chorong Seo,Inje University,51.92432883537376,44.0104951913924,Low Priority
+A5069564463,Ji‐Youn Sung,Kyung Hee University,50.108446397122684,43.81705332024999,Low Priority
+A5050317153,Byeong‐Cheol Ahn,Kyungpook National University Hospital,61.14616568917987,43.17424381184152,Academic Leader
+A5100380876,Jin Kim,Soongsil University,61.07174857005487,43.07970657536544,Academic Leader
+A5036338381,In Woong Han,Samsung Medical Center,55.274012222939774,43.07804475167207,Academic Leader
+A5026459010,Sung‐Bae Kim,University of Ulsan,64.17652294120273,42.96746651748985,Academic Leader
+A5031068192,Seung‐Woo Cho,Kangwon National University,61.675584722109264,42.96171959784046,Academic Leader
+A5052602817,Sun Shin,Korea Institute of Energy Research,53.59570485898669,42.95197217179954,Academic Leader
+A5028507019,Ik Jun Choi,The Catholic University of Korea Incheon St. Mary's Hospital,50.23736774581441,42.78901291714668,Low Priority
+A5011174551,Eunmin Kim,Yonsei University,34.49818857372969,42.00395892774697,Low Priority
+A5019811423,Kisung Nam,Seoul National University,27.770503398851243,41.221983238393086,Low Priority
+A5073934092,Jae Myoung Suh,Korea Advanced Institute of Science and Technology,55.75157879468391,41.18529738464179,Academic Leader
+A5019834339,Sohee Park,Soongsil University,65.13414020765549,40.91086338122509,Academic Leader
+A5112655953,Dong-Jin Han,Catholic University of Korea,40.131040542956015,40.87137398644786,Low Priority
+A5016338335,Soohwan An,Brigham and Women's Hospital,34.79989576154289,40.7458899578967,Low Priority
+A5020003410,Jiwon Shim,Chungbuk National University,36.698048573244954,40.71565171676471,Low Priority
+A5038741908,Kyeong Chan Im,Sungkyunkwan University,21.043546233422713,40.23743818621689,Low Priority
+A5068518101,Tae-Kyung Kim,Pohang University of Science and Technology,55.3557651880323,40.1351562946743,Academic Leader
+A5016008254,Christian Macks,Korea Advanced Institute of Science and Technology,43.5184761747677,39.89196648831074,Low Priority
+A5031651244,Ji Hun Ha,Sungkyunkwan University,20.442951065580424,39.77264596691201,Low Priority
+A5042100493,Ji Mi Ahn,Ajou University,48.73662470104356,39.169972662635914,Low Priority
+A5109170456,Yee Soo Chae,Kyungpook National University Hospital,59.21818963610591,37.50037543056611,Academic Leader
+A5044524626,Yoo Seob Shin,Yonsei University,55.79493184864008,37.41531406744849,Academic Leader
+A5100723831,Seungchan Kim,Plastic Surgery Hospital,56.808409707335116,37.3733685921793,Academic Leader
+A5060611882,Chang-Mo Yoo,Seoul National University,15.419164082512617,36.21073716060243,Low Priority
+A5045410556,Han‐Eol Park,Yonsei University,41.65483153756165,36.18884407110393,Low Priority
+A5070538830,Moonsik Kim,Kyungpook National University Hospital,38.8927346016667,35.40407767385167,Low Priority
+A5055913466,Namyoung Jung,Pohang University of Science and Technology,44.300148635602156,35.15081705405812,Low Priority
+A5101725413,Seung‐Ah Yoo,Catholic University of Korea,54.35916834344812,35.06141735205853,Academic Leader
+A5101667014,Eunhye Park,Ewha Womans University,54.14450703097503,34.99504343995286,Academic Leader
+A5102629578,Youngmin Chung,Sungkyunkwan University,26.483959091150616,34.825432520060744,Low Priority
+A5046207199,Juyoung Yoon,Ewha Womans University,58.271623871370714,34.437317246394635,Academic Leader
+A5080393838,Nirmali Sharma,Seoul National University,25.303972539788578,34.23818722900399,Low Priority
+A5083630059,An Na Seo,Kyungpook National University Hospital,53.43531076245996,33.593581591933294,Academic Leader
+A5054931904,Yoon Ah Cho,Samsung Medical Center,50.30658486216386,33.25607728262807,Low Priority
+A5011272746,Yun‐Gon Kim,Soongsil University,57.88826941064079,32.96029709930275,Academic Leader
+A5060670063,Kyusun Han,Yonsei University,21.19114039438274,31.846255471179703,Low Priority
+A5018869966,Sin‐Hee Park,Unknown,48.77915374415112,30.966235708990787,Low Priority
+A5001441680,Ji Young Mun,Korea Brain Research Institute,51.028661993317606,30.70430991324557,Low Priority
+A5049355350,Seunggeun Lee,Unknown,45.78470874358542,30.694939425513695,Low Priority
+A5056969461,Beomseok Jeon,Seoul National University Hospital,58.465300321379644,30.64734979796343,Academic Leader
+A5112850024,Young Hyeh,Sungkyunkwan University,1.7137885574552019,30.03890301022875,Low Priority
+A5109616230,Minkyo Jung,Korea Institute of Machinery & Materials,39.11049023247811,30.021007980846566,Low Priority
+A5111031978,Cho Hyun Hwang,Kyung Hee University,0.0,29.676169865369,Low Priority
+A5009706510,Muhammad Joan Ailia,Pusan National University,25.01495891344936,29.243739710449784,Low Priority
+A5101593845,Chan Woo Kim,Westchester Medical Center,56.80626581297462,28.93875045860299,Academic Leader
+A5052722112,Hyun‐Young Cha,Ajou University,54.66178091436561,28.53469423771443,Academic Leader
+A5107838719,Klaus‐Robert Müller,Korea University,56.25023174521873,28.180721967198764,Academic Leader
+A5022448366,Sung‐Hyun Jo,Soongsil University,51.61830275742868,28.055150747832748,Low Priority
+A5064908728,Song Hyun Jo,Korea Advanced Institute of Science and Technology,43.41584164690283,25.3791411727856,Low Priority
+A5043815269,Yong Woo Ji,Yonsei University,36.75427096697902,25.25814049888659,Low Priority
+A5005712891,Jang Hoon Lee,Kyungpook National University Hospital,51.23583695502043,24.04995888452413,Low Priority
+A5072381269,Sun‐ju Byeon,Daejeon Sun Hospital,46.78322799338949,23.301083807517383,Low Priority
+A5012763936,Pratyush Kumar Mishra,Seoul National University,39.447301992306755,22.451785591868433,Low Priority
+A5100436303,Dae Ho Lee,Shinhwa Medical (South Korea),37.09121997851806,22.421949017015272,Low Priority
+A5074483970,Cheorl‐Ho Kim,Sungkyunkwan University,46.03083170329148,21.82766129893853,Low Priority
+A5103042371,Sung Ki Lee,Konyang University,38.82571633730875,21.743083814012536,Low Priority
+A5038321538,Sungjin Min,Yonsei University,34.3706322710216,20.12829834346385,Low Priority
+A5013823921,Yi Sun Choi,Yonsei University,35.494531100038145,17.379438294053717,Low Priority
+A5085902390,Eun Jung Choi,Kyungpook National University,33.4173875240318,16.56102230128729,Low Priority
+A5020433927,Suran Kim,Yonsei University,37.44120646324756,15.838166866504194,Low Priority
+A5101905019,Jangho Kim,Seoul National University,45.25630246511817,14.275839335448792,Low Priority
+A5056078856,Nishant Thakur,Catholic University of Korea,41.40449446528805,14.077809283613165,Low Priority
+A5003517879,Young‐Koo Jee,Dankook University,47.89356385937795,13.34933797963805,Low Priority
+A5039165896,Jae Hun Jung,Kyung Hee University,40.91530495141529,12.803328097013052,Low Priority
+A5100772900,Jae Hun Kim,Kyung Hee University,36.77145236628594,11.687087106424007,Low Priority
+A5050948502,Eungyeong Jang,Kyung Hee University,31.772807099996008,9.309265182277466,Low Priority
+A5062726951,Jungkap Park,Hallym University Sacred Heart Hospital,29.86018477358919,0.0,Low Priority
